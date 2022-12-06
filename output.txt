@@ -1,0 +1,230 @@
+-------------------------------------------------------------
+Customer Activity for the Quarter January 1 - March  31, 2019
+-------------------------------------------------------------
+
+
+
+Customer Id: C02		Name: Spears		Address: Springfield
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190323	I60	Drill		188		2		2		376			4			380			122428087
+
+
+Customer Id: C03		Name: Lawrence		Address: Franklin
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190222	I07	Pants		52		14		1		52			14			66			188520364
+190115	I27	Mixer		105		15		5		525			75			600			188520364
+
+
+Customer Id: C06		Name: Valencia		Address: Bristol
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190323	I29	Cutlery		85		10		9		765			90			855			298433300
+190331	I36	Telepho		158		15		1		158			15			173			298433300
+
+
+Customer Id: C07		Name: Hendrix		Address: Fairview
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190104	I25	CoffeeM		104		1		10		1040			10			1050			324728798
+181231	I49	LawnMow		188		19		1		188			19			207			324728798
+
+
+Customer Id: C08		Name: Carroll		Address: Salem
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190131	I53	Sink		142		10		3		426			30			456			331689915
+
+
+Customer Id: C09		Name: Frederick		Address: Madison
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190323	I02	Shirt		83		15		2		166			30			196			342655122
+190104	I33	Switch		26		5		1		26			5			31			342655122
+
+
+Customer Id: C11		Name: Nash		Address: Arlington
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+181231	I26	Mixer		187		18		1		187			18			205			490044192
+
+
+Customer Id: C13		Name: Sanford		Address: Dover
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190323	I05	Sweater		79		16		2		158			32			190			493597477
+190331	I45	Earphon		30		10		4		120			40			160			493597477
+
+
+Customer Id: C14		Name: Dorsey		Address: Oxford
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190323	I22	Pans		162		14		1		162			14			176			499544274
+
+
+Customer Id: C15		Name: David		Address: Jackson
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190222	I18	Blender		110		6		7		770			42			812			499544274
+
+
+Customer Id: C17		Name: Downs		Address: Manchester
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190323	I04	Pants		48		13		6		288			78			366			593653463
+
+
+Customer Id: C18		Name: Scott		Address: Milton
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190222	I21	Blender		187		13		10		1870			130			2000			597299739
+190115	I22	Pans		162		14		8		1296			112			1408			593653463
+
+
+Customer Id: C22		Name: Cruz		Address: Clayton
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190331	I31	HardDis		134		13		5		670			65			735			732497102
+
+
+Customer Id: C23		Name: Perkins		Address: Dayton
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190323	I47	Lock		48		13		3		144			39			183			807738930
+
+
+Customer Id: C24		Name: Gould		Address: Lexington
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190104	I16	Glasses		19		13		6		114			78			192			866490223
+181231	I42	Camera		187		16		3		561			48			609			862793210
+
+
+Customer Id: C25		Name: Maxwell		Address: Milford
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190131	I24	Cutlery		52		4		1		52			4			56			889539258
+
+
+Customer Id: C26		Name: Snyder		Address: Oakland
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190323	I12	Dress		119		9		3		357			27			384			890136255
+
+
+Customer Id: C27		Name: Mercado		Address: Winchester
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190104	I20	Plates		31		13		2		62			26			88			890864954
+
+
+Customer Id: C28		Name: Fields		Address: Cleveland
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+181231	I38	Tablet		195		7		1		195			7			202			912541326
+
+
+Customer Id: C29		Name: Riggs		Address: Hudson
+Date	Iid	Desc		Price	Ship	Qty  	T.Price		T.Ship		Total		Credit
+-----------------------------------------------------------------------------------------------------
+190331	I41	Cable		12		2		1		12			2			14			985216409
+
+
+-----------------------------------------------------------------------------------------------------
+SUMMARY:		Quarter Purchases: 27		Overall Charges: 11794		Average Charge: 436.81
+
+				The following customers were not active this period:
+				Cid: C01	Name: Home
+				Cid: C04	Name: Barrett
+				Cid: C05	Name: Bradshaw
+				Cid: C10	Name: Greene
+				Cid: C12	Name: Pineda
+				Cid: C16	Name: Hamilton
+				Cid: C19	Name: Williams
+				Cid: C20	Name: Rios
+				Cid: C21	Name: Joyce
+				Cid: C30	Name: David
+-----------------------------------------------------------------------------------------------------
+
+
+
+-------------------------------------------------------------
+Supplier Activity for the Quarter January 1 - March  31, 2019
+-------------------------------------------------------------
+
+
+
+Supplier Id: S02		Name: Apex		Location: Maryland
+Tid	Date	Iid	Desc			Qty				Total Cost
+-----------------------------------------------------------------------------------------------------
+T06	190323	I01	Shirt			50				1900
+
+
+Supplier Id: S04		Name: Universal		Location: Virginia
+Tid	Date	Iid	Desc			Qty				Total Cost
+-----------------------------------------------------------------------------------------------------
+T11	190222	I57	Drill			31				3875
+T12	190115	I37	Charger			15				195
+
+
+Supplier Id: S06		Name: Reliable		Location: Minnesota
+Tid	Date	Iid	Desc			Qty				Total Cost
+-----------------------------------------------------------------------------------------------------
+T50	190331	I33	Switch			31				310
+
+
+Supplier Id: S09		Name: Metro		Location: Maryland
+Tid	Date	Iid	Desc			Qty				Total Cost
+-----------------------------------------------------------------------------------------------------
+T25	190331	I51	Sink			3				276
+T51	190323	I51	Sink			41				3772
+T26	190323	I38	Tablet			46				2714
+
+
+Supplier Id: S10		Name: Superior		Location: Colorado
+Tid	Date	Iid	Desc			Qty				Total Cost
+-----------------------------------------------------------------------------------------------------
+T57	190323	I54	LawnMow			48				5616
+T30	181231	I60	Drill			13				1950
+
+
+Supplier Id: S11		Name: Perfection		Location: California
+Tid	Date	Iid	Desc			Qty				Total Cost
+-----------------------------------------------------------------------------------------------------
+T33	190131	I57	Drill			7				434
+T32	190104	I40	Camera			39				4056
+
+
+Supplier Id: S13		Name: Rapid		Location: Oregon
+Tid	Date	Iid	Desc			Qty				Total Cost
+-----------------------------------------------------------------------------------------------------
+T38	190323	I14	Shoes			42				3234
+
+
+Supplier Id: S14		Name: Always		Location: Texas
+Tid	Date	Iid	Desc			Qty				Total Cost
+-----------------------------------------------------------------------------------------------------
+T42	190104	I49	LawnMow			10				1130
+T59	190222	I29	Cutlery			12				816
+
+
+Supplier Id: S15		Name: Swift		Location: Virginia
+Tid	Date	Iid	Desc			Qty				Total Cost
+-----------------------------------------------------------------------------------------------------
+T45	181231	I03	Dress			7				889
+
+
+-----------------------------------------------------------------------------------------------------
+SUMMARY:		Supplier Procurements: 15		Overall Charges: 31167		Average Charge: 2077.80
+
+				The following suppliers were not active this period:
+				Sid: S01	Name: Acme
+				Sid: S03	Name: Best
+				Sid: S05	Name: Genuine
+				Sid: S07	Name: Quick
+				Sid: S08	Name: Amazon
+				Sid: S12	Name: Solutions
+				Sid: S16	Name: Whirlwind
+-----------------------------------------------------------------------------------------------------
+
